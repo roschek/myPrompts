@@ -10,7 +10,8 @@ In this repository, you will find a collection of carefully selected and tested 
 
 ## 📂 Repository Structure
 
-The repository is organized into folders, each corresponding to a specific AI model or task category:
+##The repository is organized into folders, each corresponding to a specific AI model or task category:
+
 ├── GPT-3/                  # Prompts for GPT family models
 │   ├── business/           # Business tasks (emails, reports)
 │   ├── creative/           # Creative writing (poems, scripts)
@@ -22,6 +23,8 @@ The repository is organized into folders, each corresponding to a specific AI mo
 │   └── styles/             # Prompts for various artistic styles
 │
 └── Other/                  # Prompts for other models and specific tasks
+##
+
 ## 📝 How to Use
 
 1.  **Choose** a category or AI model you are interested in from the folders above.
