@@ -1,7 +1,5 @@
 # Awesome Prompts Collection
 
-![Header Image](https://i.imgur.com/x5z5z8e.png)
-
 Welcome to a repository dedicated to collecting and organizing effective prompts for various AI models like GPT-3, Midjourney, DALL-E, and more. The goal of this project is to create a convenient and structured database of prompts for a wide variety of tasks.
 
 ## 🚀 About This Project
@@ -10,20 +8,20 @@ In this repository, you will find a collection of carefully selected and tested 
 
 ## 📂 Repository Structure
 
-##The repository is organized into folders, each corresponding to a specific AI model or task category:
+The repository is organized into folders, each corresponding to a specific AI model or task category:
 
-├── GPT-3/                  # Prompts for GPT family models
-│   ├── business/           # Business tasks (emails, reports)
-│   ├── creative/           # Creative writing (poems, scripts)
-│   └── development/        # Development assistance (code, debugging)
-│
-├── Midjourney/             # Prompts for image generation
-│   ├── characters/         # Character creation
-│   ├── environments/       # Landscapes and settings
-│   └── styles/             # Prompts for various artistic styles
-│
-└── Other/                  # Prompts for other models and specific tasks
-##
+├── GPT-3/                  Prompts for GPT family models</br>
+│   ├── business/           Business tasks (emails, reports)</br>
+│   ├── creative/           Creative writing (poems, scripts)</br>
+│   └── development/        Development assistance (code, debugging)</br>
+│</br>
+├── Midjourney/             Prompts for image generation</br>
+│   ├── characters/         Character creation</br>
+│   ├── environments/       Landscapes and settings</br>
+│   └── styles/              Prompts for various artistic styles</br>
+│</br>
+└── Other/                  Prompts for other models and specific tasks</br>
+
 
 ## 📝 How to Use
 
@@ -34,13 +32,15 @@ In this repository, you will find a collection of carefully selected and tested 
 
 ### Example Prompt for GPT-3 (Creating an Email Campaign)
 
-```markdown
 **Task:** Write a short and engaging email for a newsletter announcing a new product launch.
 
 **Prompt:**
-"Act as a marketer at company 'X'. Write an email newsletter announcing the launch of our new product, '[Product Name]'. The target audience is our current customers. The email should be short (no more than 150 words), friendly, and motivate them to visit the website.
+"Act as a marketer at company 'X'. Write an email newsletter announcing the launch of our new product, '[Product Name]'.
+The target audience is our current customers.
+The email should be short (no more than 150 words), friendly, and motivate them to visit the website.
 Be sure to include a call-to-action button with the text 'Learn More'."
-🙌 How to Contribute
+
+<h2>**🙌 How to Contribute**</h2>
 I welcome new ideas and examples! If you want to share your prompts, please follow these steps:
 
 Fork this repository.
