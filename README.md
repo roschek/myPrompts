@@ -13,7 +13,7 @@ The repository is organized into folders, each corresponding to a specific AI mo
 ├── GPT-3/                  Prompts for GPT family models</br>
 │   ├── business/           Business tasks (emails, reports)</br>
 │   ├── creative/           Creative writing (poems, scripts)</br>
-├   |   education/          Creating some aducation course </br>
+│   ├── education/          Creating some aducation course </br>
 │   └── development/        Development assistance (code, debugging)</br>
 │</br>
 ├── Midjourney/             Prompts for image generation</br>
